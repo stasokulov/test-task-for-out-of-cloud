@@ -1,5 +1,8 @@
 # test-task-for-out-of-cloud
 
+На vue.cli. Самописный слайдер, валидация email.
+Сайт с результатом: https://stasokulov.github.io/test-task-for-out-of-cloud/
+
 ## Project setup
 ```
 npm install
